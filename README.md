@@ -2,6 +2,7 @@
 
 
 - Mobile QA
+- I always explore new opportunities to learn and grow every day.
 
 ### How to reach me:
   <a href="https://t.me/marinka_k">
