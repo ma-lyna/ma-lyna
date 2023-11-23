@@ -2,8 +2,8 @@
 
 
 - Mobile QA
-- 5 years of hands-on experience in manual software testing.
-- Interested in test automation.
+- 5 years of hands-on experience in manual software testing
+- Interested in test automation
 
 ### Contacts:
 
