@@ -1,4 +1,4 @@
-## Hello, I'm Marina! 👋
+## Hey, I'm Marina! 👋
 
 
 - Mobile QA
