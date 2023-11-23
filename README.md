@@ -29,8 +29,6 @@
 <a href="https://www.selenide.org/"><img width="5%" title="Selenide" src="media/Selenide.svg">
 <a href="https://www.aerokube.com/selenoid/"><img width="5%" title="Selenoid" src="media/Selenoid.svg">
 <a href="https://rest-assured.io/"><img width="5%" title="Jira" src="media/rest_assured.png">
-<a href="https://www.browserstack.com/"><img width="5%" title="BroserStack" src="media/Browserstack.svg"></a>
-<a href="https://appium.io/"><img width="5%" title="Appium" src="media/Appium.svg"></a>
 <a href="https://www.gradle.org/"><img width="5%" title="Gradle" src="media/Gradle.svg">
 <a href="https://www.junit.org/junit5/"><img width="5%" title="Junit5" src="media/JUnit5.svg">
 <a href="https://www.jenkins.io/"><img width="5%" title="Jenkins" src="media/Jenkins.svg">
