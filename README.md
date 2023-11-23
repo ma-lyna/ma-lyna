@@ -41,4 +41,6 @@
 
 ### Automation tests for [openfoodfacts](https://world.openfoodfacts.org/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-lyna)](https://github.com/anuraghazra/github-readme-stats)
+
 
