@@ -20,24 +20,8 @@
   </a>
 
 
-### &nbsp;Tools and technologies:
+### Tools and technologies:
 
-## Hello, I'm Yulia! 👋
-
-
-- QA engineer at <a href="https://innopolis.university/en/center-oil/"> Innopolis, Center for Oil and Gas Technology </a></h1>
-- Sphere of interest: Test Automation using Java/Selenide
-
-### How to reach me:
-  <a href="https://t.me/Mlle_Julie">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  
-   <a href="mailto:yuliamalkova1606@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-
-### Languages and tools:
 <p align="left">
 
 <a href="https://www.java.com/"><img width="5%" title="Java" src="media/Java.svg">
