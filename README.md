@@ -39,8 +39,6 @@
 
 ## Project:
 
-### Automation tests for openfoodfacts.org
-
-[![Readme Card](https://github.com/ma-lyna/automationTestsProject)]
+### Automation tests for [openfoodfacts](openfoodfacts.org)
 
 
