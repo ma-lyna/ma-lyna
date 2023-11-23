@@ -39,6 +39,6 @@
 
 ## Project:
 
-### Automation tests for [openfoodfacts](openfoodfacts.org](https://world.openfoodfacts.org/)https://world.openfoodfacts.org/)
+### Automation tests for [openfoodfacts](https://world.openfoodfacts.org/)
 
 
